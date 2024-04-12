@@ -1,4 +1,4 @@
-# Madhav-Ecommerce-Sales-Dashboard
+# Madhav Ecommerce Sales Dashboard
 The Madhav Ecommerce Sales Dashboard project aimed to provide comprehensive insights into the sales performance of Madhav Enterprises' ecommerce platform. Leveraging the capabilities of Microsoft Power BI, the project involved creating an interactive dashboard to visualize key metrics, analyze trends, and facilitate data-driven decision-making.
 Project Objectives:
 
